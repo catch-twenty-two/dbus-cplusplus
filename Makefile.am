@@ -1,4 +1,4 @@
-SUBDIRS = src tools data doc examples  test 
+SUBDIRS = src data doc examples  test 
 
 if ENABLE_GLIB
 PKG_CONFIG_GLIB = dbus-c++-glib-1.pc
