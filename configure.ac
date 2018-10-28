@@ -218,7 +218,6 @@ AC_OUTPUT(
         src/integration/Makefile
         src/integration/ecore/Makefile
         src/integration/glib/Makefile
-#        tools/Makefile
 	test/Makefile
 	test/generator/Makefile
 	test/functional/Makefile
